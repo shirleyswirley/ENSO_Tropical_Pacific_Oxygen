@@ -1,0 +1,12 @@
+colorbrewer downloaded from:
+https://www.mathworks.com/matlabcentral/fileexchange/34087-cbrewer-colorbrewer-schemes-for-matlab
+This product includes color specifications and designs developed by Cynthia Brewer (http://colorbrewer.org/).
+(see colorbrewer/LICENSE for license)  
+
+m_map citation:
+Pawlowicz, R., 2019. "M_Map: A mapping package for MATLAB", version 1.4k, [Computer software], available online at www.eoas.ubc.ca/~rich/map.html
+(copyright applies)
+
+seawater_ver3_3.1 (SeaWater library of EOS-80 seawater properties) citation:
+http://www.cmar.csiro.au/datacentre/ext_docs/seawater.htm.
+(see seawater_ver3_3.1/sw_copy.m for license)
