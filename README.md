@@ -1,7 +1,7 @@
 # ENSO_Tropical_Pacific_Oxygen
 
 The code in this repository reproduces figures and tables in the following paper:
-<br>Leung et al. (2019).
+<br>Leung, S., Thompson, L., McPhaden, M. J., & Mislan, K. A. S. (2019). ENSO drives near-surface oxygen and vertical habitat variability in the tropical Pacific. Environmental Research Letters.
 
 Please cite the above paper if you use this code.
 
